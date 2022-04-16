@@ -1,4 +1,4 @@
-# Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
+# Module 19 Mini-Project Instructions: Deploy Contact Directory App on Heroku with Script
 
 Heroku Page: https://all-my-folks.herokuapp.com/
 
